@@ -29,6 +29,6 @@ We also explored how branches function, the differences between public and priva
 
 
 # For Hardik Bhaiya
-His teaching style was polite, friendly, and engaging, making the session enjoyable and easy to follow. He had a natural ability to capture everyone’s attention, and his approachable nature encouraged us to participate actively.  
+If you are reading this, Thankyou for the amazing session, your teaching style was polite, friendly, and engaging, making the session enjoyable and easy to follow. you had a natural ability to capture everyone’s attention, and his approachable nature encouraged us to participate actively.  
 
 Overall, it was a great learning experience. The workshop not only provided a clear understanding of Git and GitHub but also boosted my confidence in using these tools effectively.  
