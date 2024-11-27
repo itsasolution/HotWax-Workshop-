@@ -7,11 +7,13 @@ The workshop at HotWax Commerce was an incredible experience. The instructor, Ha
 He started by introducing version control, discussing its evolution from older methods to modern tools like Git. It was fascinating to learn why Git and GitHub are so widely used in software development today.  
 
 He talked about importance of git like-  
-why we need git  
-It tracks changes in the code  
-Record of previos and modified code versions  
-Secure and backup of work  
-Working togather with team on a project  
+1) why we need gitt
+2) It tracks changes in the code  
+3) Record of previos and modified code versions  
+4) Secure and backup of work  
+5) Working togather with team on a project  
+
+
 
 overview of some of version control system -  
 HelixCore , mercurial, Git etc.  
