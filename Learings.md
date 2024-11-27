@@ -18,13 +18,13 @@ He talked about importance of git like-
 overview of some of version control system -  
 HelixCore , mercurial, Git etc.  
 
-# Git workings
-Creating repository(a folder)   
-visibility of repo Public/Private  
-ReadMe.md -> about the project and execution.    
-what is commit -> simplified like saving code  
-stage changes  -> saving locally on my machine  
-commit messege -> what we changed in our code, we can add a messege for better understanding of the code  
+# Git working
+1) Creating repository(a folder)
+2) visibility of repo Public/Private
+3) ReadMe.md -> about the project and execution.
+4) what is commit -> simplified like saving code
+5) stage changes  -> saving locally on my machine
+6) commit messege -> what we changed in our code, we can add a messege for better understanding of the code  
 
 
 During the session, he provided hands-on experience, guiding us through creating a repository, adding code, and demonstrating how Git works step by step.  
