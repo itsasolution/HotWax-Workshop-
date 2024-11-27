@@ -1,12 +1,12 @@
 
 Orders Table:
 ______________________________________________________________________________________________________________________________________________________
-| order_id |	user_id	 |    product_id |   status	        | total_amount |  city     |   description                     |   is_returnable         |
+| order_id |	user_id	   |    product_id |   status	        | total_amount |  city     |   description                     |   is_returnable         |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1        |	101    	 |    201        |   Delivered	    |    500       |  Delhi    |   Iphone 17 Pro                   |    True                 |
-| 2	       |    101	     |    202        |   In Progress	|    200       |  Jaipur   |   Iphone 17 Pro Max               |    True                 |
+| 1        |	  101  	   |    201        |   Delivered	    |    500       |  Delhi    |   Iphone 17 Pro                   |    True                 |
+| 2	       |    101	     |    202        |   In Progress	  |    200       |  Jaipur   |   Iphone 17 Pro Max               |    True                 |
 | 3	       |    102	     |    204        |   Cancelled	    |    300       |  Pochinki |   Iphone 17 Ultra pro Max legend  |    NO                   |
-| 4	       |    103      |    203        |   At The Door	|    300       |  Inodre   |   Nokia 1100                      |    NO                   |
+| 4	       |    103      |    203        |   At The Door	  |    300       |  Inodre   |   Nokia 1100                      |    NO                   |
 |__________|_____________|_______________|__________________|______________|___________|___________________________________|_________________________|
 
 
