@@ -1,39 +1,26 @@
 # HotWax Workshop  
 
+# Check Other Branch for GIT Workshop Notes
+
 23 November 2024  
+# SQL Workshop
 
-The workshop at HotWax Commerce was an incredible experience. The instructor, Hardik Bhaiya gave an excellent overview of Git and GitHub, explaining how they work and why they are essential.
-He started by introducing version control, discussing its evolution from older methods to modern tools like Git. It was fascinating to learn why Git and GitHub are so widely used in software development today.  
+The workshop at HotWax Commerce was an incredible experience. Although I already Know about SQL but still learned new things there.  
+The instructor was so energetic, I am listening to his each words.
 
-Who built Git? - Linus Torvalds, the creator of the Linux operating system kernel. Linux is Open source and anyone can make modify the code like-  
-Contribute new features  
-Fix Bugs on existing code  
+# Learnings from the workshop-
+1) Data vs DataBase vs DataBase Management System (DBMS)
+2) Relational and Non-relational Databases
+3) Keys and primary key (unic, not null)
+4) Normalization and Its types- 1NF, 2NF, 3NF etc.
+5) Advantages like - Reducing Redundancy, maintain Integrity
 
-He talked about importance of git like-  
-why we need git  
-It tracks changes in the code  
-Record of previos and modified code versions  
-Secure and backup of work  
-Working togather with team on a project  
-
-overview of some of version control system -  
-HelixCore , mercurial, Git etc.  
-
-# Git workings
-Creating repository(a folder)   
-visibility of repo Public/Private  
-ReadMe.md -> about the project and execution.    
-what is commit -> simplified like saving code  
-stage changes  -> saving locally on my machine  
-commit messege -> what we changed in our code, we can add a messege for better understanding of the code  
-
-Git GUI -> easy to use GUI and visualize how the things works on Git.
-
-During the session, he provided hands-on experience, guiding us through creating a repository, adding code, and demonstrating how Git works step by step.  
-We also explored how branches function, the differences between public and private repositories, and why Git stands out compared to other tools and platforms, many of which are paid.  
+# Structured Query Language (SQL)
+1) Easy to understand and Universal for all databases
+2) Programming language for retrieval and manipulation of data in DataBase
+3) Data Types like- INT,VARCHAR, Float
+4) ER- diagrams etc
 
 
-# For Hardik Bhaiya
-If you are reading this, Thankyou for the amazing session, your teaching style was polite, friendly, and engaging, making the session enjoyable and easy to follow. you had a natural ability to capture everyone’s attention, and his approachable nature encouraged us to participate actively.  
-
-Overall, it was a great learning experience. The workshop not only provided a clear understanding of Git and GitHub but also boosted my confidence in using these tools effectively.  
+# Thanks for the Amazing Session
+It was all fun to learn and also staff was supportive and humble.
