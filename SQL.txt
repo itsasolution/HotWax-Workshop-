@@ -1,0 +1,47 @@
+
+Orders Table:
+______________________________________________________________________________________________________________________________________________________
+| order_id |	user_id	 |    product_id |   status	        | total_amount |  city     |   description                     |   is_returnable         |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1        |	101    	 |    201        |   Delivered	    |    500       |  Delhi    |   Iphone 17 Pro                   |    True                 |
+| 2	       |    101	     |    202        |   In Progress	|    200       |  Jaipur   |   Iphone 17 Pro Max               |    True                 |
+| 3	       |    102	     |    204        |   Cancelled	    |    300       |  Pochinki |   Iphone 17 Ultra pro Max legend  |    NO                   |
+| 4	       |    103      |    203        |   At The Door	|    300       |  Inodre   |   Nokia 1100                      |    NO                   |
+|__________|_____________|_______________|__________________|______________|___________|___________________________________|_________________________|
+
+
+1. Check the Status of Your Order
+
+SELECT order_id, status 
+FROM orders 
+WHERE user_id = 101;
+
+
+2. Find the Total Amount of Your Orders
+Aggregate function SUM
+
+SELECT SUM(total_amount) AS total_spent 
+FROM orders 
+WHERE user_id = 102;
+
+
+
+3. Update Your City
+
+UPDATE users 
+SET city = 'Bhopal' 
+WHERE user_id = 103; 
+
+
+4. Change Product Description
+
+UPDATE orders 
+SET description = 'Galaxy S200 out of range'
+WHERE product_id = 202; 
+
+
+5. Display Returnable Products
+
+SELECT product_id, name, description 
+FROM products 
+WHERE is_returnable = TRUE;
